@@ -16,6 +16,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.support.multidex.MultiDexApplication;
 import android.util.Log;
+import com.amazonaws.mobile.client.AWSMobileClient;
 
 /**
  * Application class responsible for initializing singletons and other
